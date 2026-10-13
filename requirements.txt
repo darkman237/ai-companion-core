@@ -3,3 +3,6 @@ pydantic
 httpx
 mcp
 chromadb
+fastapi
+uvicorn[standard]
+aiosqlite
